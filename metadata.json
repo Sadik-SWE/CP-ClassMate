@@ -1,0 +1,6 @@
+{
+  "name": "ClassMate",
+  "description": "AI-powered university collaboration platform connecting students, class representatives, faculty, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
